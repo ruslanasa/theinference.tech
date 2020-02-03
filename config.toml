@@ -14,9 +14,10 @@ disableKinds = [
       unsafe = true # Allow raw HTML rendering
 
 [params]
+  description = "Artificial Intelligence Association of Lithuania community site"
   custom_css = ["css/custom.css"]
   openGraph = true
-  section5 = true
+  #section5 = true
 
   [params.navbarlogo]
     image = "logos/LDIA_200x50.svg"

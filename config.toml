@@ -35,7 +35,7 @@ disableKinds = [
     buttontext = "Join us"
     buttonlink = "/#section3"
     secbuttontext = "Learn more"
-    secbuttonlink = "#"
+    secbuttonlink = "/#section1"
     image = "illustrations/Group_393x295.svg"
     memberlogos = [
       "oxipit",

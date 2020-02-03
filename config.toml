@@ -34,9 +34,9 @@ disableKinds = [
     title = "Join AI Association of Lithuania!"
     subtitle = "Community of professionals and enthusiast dedicated to artificial intelligence development in Lithuania"
     buttontext = "Join us"
-    buttonlink = "/#section3"
+    buttonlink = "/#membership"
     secbuttontext = "Learn more"
-    secbuttonlink = "/#section1"
+    secbuttonlink = "/#mission"
     image = "illustrations/Group_393x295.svg"
     memberlogos = [
       "Exacaster_123x70",

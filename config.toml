@@ -48,16 +48,12 @@ disableKinds = [
     ]
 
   [[params.navbar]]
-    title = "Mission"
-    url = "/#section1"
-
-  [[params.navbar]]
-    title = "Vision"
-    url = "/#section1"
+    title = "Mission & Vision"
+    url = "/#mission"
 
   [[params.navbar]]
     title = "Membership"
-    url = "/#section3"
+    url = "/#membership"
 
   [[params.navbar]]
     title = "News"

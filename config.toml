@@ -69,7 +69,7 @@ disableKinds = [
 
   [params.section2]
     title = "Membership"
-    subtitle = "becomming member of AI community"
+    subtitle = "becoming member of AI community"
     text = "We are a not-for-profit and rely on the efforts of volunteers and support of members or patrons. Association is always looking for new people to volunteer. No previous experience in AI or development is necessary. What matters most is that you are passionate about creating or just want to know more about AI."
 
   #   [[params.section1.tiles]]

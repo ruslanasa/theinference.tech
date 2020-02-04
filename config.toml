@@ -32,19 +32,19 @@ disableKinds = [
 
   [params.hero]
     title = "Join AI Association of Lithuania!"
-    subtitle = "Community of professionals and enthusiast dedicated to artificial intelligence development in Lithuania"
+    subtitle = "Community of professionals and enthusiast dedicated to artificial intelligence development in Lithuania."
     buttontext = "Join us"
     buttonlink = "/#membership"
     secbuttontext = "Learn more"
     secbuttonlink = "/#mission"
     image = "illustrations/Group_393x295.svg"
     memberlogos = [
-      "Exacaster_123x70",
-      "NeuroTechnology_123x70",
-      "Oxipit_123x70_horiz",
-      "Pixelmator_123x70",
-      "Satalia_123x70",
-      "Unity_123x70"
+      "Exacaster_123x70@4x",
+      "NeuroTechnology_123x70@4x",
+      "Oxipit_123x70@4x",
+      "Pixelmator_123x70@4x",
+      "Satalia_123x70@4x",
+      "Unity_123x70@4x"
     ]
 
   [[params.navbar]]
@@ -149,18 +149,26 @@ disableKinds = [
     [params.footer.quicklinks]
 
       [params.footer.quicklinks.column1]
-        title = "INFO"
+        title = "Info"
 
         [[params.footer.quicklinks.column1.links]]
           text = "Bylaws (in lithuanian)"
           link = "files/ldia_istatai.pdf"
-        
-        [[params.footer.quicklinks.column1.links]]
-          text = "FAQ"
-          link = "/faq"
 
-    #   [params.footer.quicklinks.column2]
-    #     title = "Docs"
+        [[params.footer.quicklinks.column1.links]]
+          text = "Member application form"
+          link = "https://docs.google.com/forms/d/e/1FAIpQLSddLuSeS5BUFgY7RSHP1_urgg0rSALZMvL_pZicbxt-Xe4u7w/viewform"
+
+        # [[params.footer.quicklinks.column1.links]]
+        #   text = "FAQ"
+        #   link = "/faq"
+
+      [params.footer.quicklinks.column2]
+        title = "Contacts"
+        
+        [[params.footer.quicklinks.column2.links]]
+          text = "Email: info@lithuania.ai"
+          link = "mailto: info@lithuania.ai"
 
     #     [[params.footer.quicklinks.column2.links]]
     #       text = "Get started"
@@ -204,8 +212,4 @@ disableKinds = [
     [[params.footer.socialmedia]]
       link = "https://www.eventbrite.com/o/artificial-intelligence-association-of-lithuania-ldia-16793448984"
       icon = "ticket"
-
-    [[params.footer.socialmedia]]
-      link = "mailto: info@lithuania.ai"
-      icon = "envelope"
 

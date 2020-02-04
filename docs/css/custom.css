@@ -1,3 +1,32 @@
 footer.footer-dark .footer-logo img {
   height: 50px;
 }
+
+.has-padding-2em {
+  padding: 2em;
+}
+
+.has-padding-2em-bottom {
+  padding-bottom: 2em;
+}
+
+.section {
+  padding: 3rem 1.5rem;
+}
+
+@media screen and (min-width: 1088px) {
+  .section.is-medium {
+    padding: 5rem 1.5rem;
+  }
+  .section.is-large {
+    padding: 10rem 1.5rem;
+  }
+}
+
+.box.has-no-padding {
+  padding: 0px !important;
+}
+
+.has-dead-purple-bgcolor {
+  background-color: #EFEEFF;
+}

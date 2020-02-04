@@ -22,3 +22,11 @@ footer.footer-dark .footer-logo img {
     padding: 10rem 1.5rem;
   }
 }
+
+.box.has-no-padding {
+  padding: 0px !important;
+}
+
+.has-dead-purple-bgcolor {
+  background-color: #EFEEFF;
+}

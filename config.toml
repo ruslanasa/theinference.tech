@@ -48,7 +48,7 @@ disableKinds = [
     ]
 
   [[params.navbar]]
-    title = "Mission & Vision"
+    title = "Mission"
     url = "/#mission"
 
   [[params.navbar]]
@@ -56,12 +56,12 @@ disableKinds = [
     url = "/#membership"
 
   [[params.navbar]]
+    title = "Friends"
+    url = "/#friends"
+
+  [[params.navbar]]
     title = "News"
     url = "/news"
-
-  # [[params.navbar]]
-  #   title = "Friends"
-  #   url = "/#section4"
 
   # [[params.navbar]]
   #   title = "Contacts"
@@ -69,8 +69,13 @@ disableKinds = [
 
   [params.section2]
     title = "Membership"
-    subtitle = "becoming member of AI community"
+    subtitle = "Becoming member of AI community"
     text = "We are a not-for-profit and rely on the efforts of volunteers and support of members or patrons. Association is always looking for new people to volunteer. No previous experience in AI or development is necessary. What matters most is that you are passionate about creating or just want to know more about AI."
+
+  [params.section3]
+    title = "Friends and Partners"
+    subtitle = "The companies that sponsored meetups or partnered in other ways"
+    text = ""
 
   #   [[params.section1.tiles]]
   #     title = "App builder"

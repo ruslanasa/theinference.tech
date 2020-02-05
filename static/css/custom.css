@@ -2,6 +2,14 @@ footer.footer-dark .footer-logo img {
   height: 50px;
 }
 
+.has-padding-1em-bottom {
+  padding-bottom: 1em;
+}
+
+ul.has-padding-1em-bottom > li {
+  padding-bottom: 1em;
+}
+
 .has-padding-2em {
   padding: 2em;
 }

@@ -70,7 +70,7 @@ disableKinds = [
   [params.section2]
     title = "Events"
     subtitle = "events"
-    text = "events"
+    text = ""
 
   [params.section3]
     title = "Membership"

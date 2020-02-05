@@ -68,11 +68,16 @@ disableKinds = [
   #   url = "/"
 
   [params.section2]
+    title = "Events"
+    subtitle = "events"
+    text = "events"
+
+  [params.section3]
     title = "Membership"
     subtitle = "Becoming member of AI community"
     text = "We are a not-for-profit and rely on the efforts of volunteers and support of members or patrons. Association is always looking for new people to volunteer. No previous experience in AI or development is necessary. What matters most is that you are passionate about creating or just want to know more about AI."
 
-  [params.section3]
+  [params.section4]
     title = "Friends and Partners"
     subtitle = "The companies that sponsored meetups or partnered in other ways"
     text = ""
